@@ -1,7 +1,7 @@
 # Quantitative Medical Image Analysis in the Cloud using Big Data Approaches
 
 The presentation and related material for the [LifeScienceForumBasel 2015](http://lifescienceforumbasel.org)
-- The [slides](https://rawgithub.com/4Quant/LSFB2015/master/LSFBPres.html) can be seen here
+- The [slides](https://rawgit.com/4Quant/LSFB2015/master/LFSBPres.html) can be seen here
 - A Demo of our [Quantitative Image Search Engine](https://kmader.shinyapps.io/SearchMachineDemo)
 
 ## Relevant Links
